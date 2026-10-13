@@ -1,0 +1,34 @@
+========================================================================
+HOW TO UPLOAD TO TIINY HOST (tiiny.host) IN 3 SIMPLE STEPS
+========================================================================
+
+You have the ready-to-upload zip file right here:
+File: aaa.zip (or tinyhost_farhana_portfolio.zip)
+
+STEP 1: Open Tiiny Host
+-----------------------
+Go to your browser and visit:
+https://tiiny.host
+
+STEP 2: Drag and Drop the ZIP file
+----------------------------------
+- Take the file "aaa.zip" from this folder (or from your Desktop).
+- Drag and drop it into the "Upload your file" box on tiiny.host.
+
+STEP 3: Name your site and Publish
+----------------------------------
+- Enter a link name (for example: farhana-portfolio).
+- Click "Publish".
+- Your portfolio website is now LIVE on the internet!
+
+========================================================================
+WHAT IS INSIDE THIS FOLDER (Desktop\aaa):
+========================================================================
+1. aaa.zip                       -> The exact ZIP file ready to drag-and-drop on tiiny.host.
+2. index.html                    -> The pre-rendered static HTML file.
+3. css/style.css                 -> Custom modern styles & royal purple gradients.
+4. js/main.js                    -> Interactivity (counters, filters, modal, toast).
+5. images/                       -> Farhana's avatar, favicon, and 6 project mockups.
+6. app.py                        -> Flask backend if you want to run locally with Python.
+7. requirements.txt              -> Python dependencies.
+========================================================================
